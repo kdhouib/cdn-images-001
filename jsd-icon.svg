@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="100px" viewBox="0 0 78 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Jira Service Desk-icon-blue-rgb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="38.0412357%" y1="6.63683429%" x2="59.8560262%" y2="63.7778713%" id="linearGradient-1">
+            <stop stop-color="#0052CC" offset="0%"></stop>
+            <stop stop-color="#2684FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="JSD-Mobile-App-LP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hero-half-(Desktop-HD)-Copy-2" transform="translate(-212.000000, -870.000000)" fill-rule="nonzero">
+            <g id="Group-11" transform="translate(141.000000, 827.000000)">
+                <g id="Jira-Service-Desk-icon-blue-rgb" transform="translate(71.000000, 43.000000)">
+                    <path d="M46.531,39.3684211 L73.6675,39.4736842 C75.2660099,39.4811335 76.7235399,40.3891865 77.433962,41.8202206 C78.1443841,43.2512546 77.9861257,44.9603807 77.025,46.2368421 L36.972,99.6842105 C30.9246765,95.1709509 26.9195378,88.4414844 25.8379689,80.9767212 C24.7563999,73.511958 26.6870308,65.923604 31.205,59.8815789 L46.531,39.3684211 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                    <path d="M31.1918333,59.8815789 L4.21333333,59.7105263 C2.61482347,59.703077 1.15729341,58.795024 0.446871315,57.36399 C-0.263550778,55.9329559 -0.10529233,54.2238298 0.855833333,52.9473684 L40.5138333,0 C46.5611569,4.51325965 50.5662956,11.2427261 51.6478645,18.7074893 C52.7294334,26.1722525 50.7988026,33.7606066 46.2808333,39.8026316 L31.1918333,59.8815789 Z" id="Shape" fill="#2684FF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
